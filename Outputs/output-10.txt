@@ -1,0 +1,3 @@
+DFS
+Steps: 0, Total weight: 0, Nodes generated: 1000974, Time: 340.32678s, Memory: 2879.26953 MB
+No solution

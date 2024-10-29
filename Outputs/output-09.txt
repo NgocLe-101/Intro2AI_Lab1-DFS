@@ -1,0 +1,3 @@
+DFS
+Steps: 37, Total weight: 469, Nodes generated: 238, Time: 0.04919s, Memory: 1056.68359 MB
+dlUrrrdLrulllddrUluRuulDrddrruLrdllUU
