@@ -3,9 +3,9 @@
 ## Phân tích bài toán
 
 Với trạng thái ban đầu của input, yêu cầu của ta là tìm chuỗi hành động của Ares để đến được trạng thái cuối cùng là tất cả các viên đá đều nằm trên các switch. Mặt khác, với mỗi vị trí của Ares trên mê cung, anh ta có tối đa 4 khả năng để đi tiếp ở bước tiếp theo. \
-![alt text](image.png) \
+![alt text](/assets/image.png) \
 Như vậy, bài toán được quy về bài toán tìm kiếm với không gian trạng thái là trạng thái của mê cung sau mỗi bước di chuyển của Ares. Trạng thái ban đầu chính là trạng thái của input và trạng thái kết thúc chính là lúc các viên đá đều nằm trên các switch. Hàm successor sẽ tìm ra các khả năng hành động của Ares ở trạng thái hiện tại với cost dựa trên hành động đó \
-![alt text](image-1.png)
+![alt text](/assets/image-1.png)
 
 ## Thuật toán DFS
 
